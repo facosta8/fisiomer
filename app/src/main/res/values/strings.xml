@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fisiomer2</string>
+    <string name="texto_inicio">Bueno, aquí empieza todo</string>
+    <string name="menu_sucursal">Sucursales</string>
+    <string name="edit_message">Mas pruebas</string>
+    <string name="pasar_texto">Ecoeco</string>
+
+
+</resources>
